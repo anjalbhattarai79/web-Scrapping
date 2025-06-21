@@ -20,5 +20,5 @@ It extracts **quotes**, **authors**, and **tags** from the page and stores them 
 
 ## 📂 Output File
 
-The resulting CSV file is named: Qotes_collection.csv ```**Have a look above**```
+The resulting CSV file is named: ```Qotes_collection.csv``` **Have a look above**
 
